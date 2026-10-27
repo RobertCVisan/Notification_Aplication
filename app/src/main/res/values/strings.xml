@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Notification_Aplication</string>
+    <string name="channel_name">notificare canal</string>
+    <string name="channel_description">Descriptie canal</string>
+    <string name="day_box">Specific Day</string>
+    <string name="House_box">Specific House</string>
+</resources>
